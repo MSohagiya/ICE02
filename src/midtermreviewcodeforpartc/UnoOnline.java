@@ -6,6 +6,7 @@
 package midtermreviewcodeforpartc;
 
 import java.util.Scanner;
+import static midtermreviewcodeforpartc.PasswordValidator.validPassword;
 
 /**
  * The signIn page for UnoOnline.
